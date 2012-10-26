@@ -1,0 +1,15 @@
+Ans Editor, (c) 1998 The Attic People
+-------------------------------------
+document made by Matthijs Groen (THAiSi) 3-1-2005
+
+Toetsen:
+1: verander voorgrond en achtergrond kleur
+2: verander achtergrond kleur
+3: verander voorgrond kleur
+g: 'grab' kleuren
+e: edit mode (tekst invoer)
+r: zet een karakter in geheugen
+t: plak karakter uit geheugen
+Q: kleurmode automatisch
+<spatie>: plak kleur
+S: Sla bestand op
